@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+pandas
+openai
+requests
+torch
+torchvision
+torchaudio
+gradio
+numpy
+ollama
+ipykernel

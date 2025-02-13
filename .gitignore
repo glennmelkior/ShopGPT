@@ -1,0 +1,9 @@
+.DS_Store
+descriptions_data/
+faiss_data/
+images_data/
+llava_output.txt
+output.txt
+product_embeddings.index
+unused/
+
